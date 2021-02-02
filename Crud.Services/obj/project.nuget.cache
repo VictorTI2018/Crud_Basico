@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2ip52BCeSMZIx8QVsI7Wo37F/N2qBq/1b33Arw3K3xFk7myfuY3WTiQ3nkm1UweTlPWac8kPKuCnH7BGjRXOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\Crud\\Crud.Services\\Crud.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

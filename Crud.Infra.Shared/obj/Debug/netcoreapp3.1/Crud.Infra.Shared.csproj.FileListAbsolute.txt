@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\bin\Debug\netcoreapp3.1\Crud.Infra.Shared.deps.json
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\bin\Debug\netcoreapp3.1\Crud.Infra.Shared.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\bin\Debug\netcoreapp3.1\Crud.Infra.Shared.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\bin\Debug\netcoreapp3.1\Crud.Domain.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\bin\Debug\netcoreapp3.1\Crud.Domain.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\obj\Debug\netcoreapp3.1\Crud.Infra.Shared.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\obj\Debug\netcoreapp3.1\Crud.Infra.Shared.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\obj\Debug\netcoreapp3.1\Crud.Infra.Shared.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\obj\Debug\netcoreapp3.1\Crud.Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\obj\Debug\netcoreapp3.1\Crud.Infra.Shared.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\obj\Debug\netcoreapp3.1\Crud.Infra.Shared.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.Shared\obj\Debug\netcoreapp3.1\Crud.Infra.Shared.pdb

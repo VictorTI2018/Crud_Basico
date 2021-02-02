@@ -1,0 +1,23 @@
+<mat-card>
+    <mat-card-title>Nova Categoria</mat-card-title>
+    <br/>
+    <mat-card-content>
+        <form>
+            <mat-form-field appearance="legacy">
+                <mat-label>Nome</mat-label>
+                <input matInput placeholder="Nome da categoria..." [(ngModel)]="categoria.nome" name="nome">
+            </mat-form-field>
+            <mat-form-field appearance="legacy">
+                <mat-label>Descrição</mat-label>
+                <textarea matInput placeholder="Descrição da categoria..." [(ngModel)]="categoria.descricao"
+                name="descricao"></textarea>
+            </mat-form-field>
+        </form>
+    </mat-card-content>
+    <mat-card-actions class="container-buttons">
+        <button mat-raised-button color="warn" (click)="voltar()">Voltar</button>
+        <button mat-raised-button color="primary" (click)="handleSubmit()">
+            {{ categoria.id && categoria.id > 0 ? 'Atualizar' : 'Cadastrar'}}
+        </button>
+    </mat-card-actions>
+</mat-card>

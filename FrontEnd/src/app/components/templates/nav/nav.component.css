@@ -1,0 +1,18 @@
+.sidenav {
+    width: 200px;
+}
+
+.sidenav i {
+    padding-right: 10px;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content {
+    padding: 35px 35px;
+    background-color: #FFF;
+}

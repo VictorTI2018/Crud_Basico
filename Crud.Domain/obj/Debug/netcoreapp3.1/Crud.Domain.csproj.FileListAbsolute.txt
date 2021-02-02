@@ -1,0 +1,9 @@
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\bin\Debug\netcoreapp3.1\Crud.Domain.deps.json
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\bin\Debug\netcoreapp3.1\Crud.Domain.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\bin\Debug\netcoreapp3.1\Crud.Domain.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\obj\Debug\netcoreapp3.1\Crud.Domain.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\obj\Debug\netcoreapp3.1\Crud.Domain.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\obj\Debug\netcoreapp3.1\Crud.Domain.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\obj\Debug\netcoreapp3.1\Crud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\obj\Debug\netcoreapp3.1\Crud.Domain.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Domain\obj\Debug\netcoreapp3.1\Crud.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\bin\Debug\netcoreapp3.1\Crud.Services.deps.json
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\bin\Debug\netcoreapp3.1\Crud.Services.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\bin\Debug\netcoreapp3.1\Crud.Services.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\obj\Debug\netcoreapp3.1\Crud.Services.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\obj\Debug\netcoreapp3.1\Crud.Services.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\obj\Debug\netcoreapp3.1\Crud.Services.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\obj\Debug\netcoreapp3.1\Crud.Services.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\obj\Debug\netcoreapp3.1\Crud.Services.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\obj\Debug\netcoreapp3.1\Crud.Services.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\bin\Debug\netcoreapp3.1\Crud.Domain.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\bin\Debug\netcoreapp3.1\Crud.Domain.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Services\obj\Debug\netcoreapp3.1\Crud.Services.csproj.CopyComplete

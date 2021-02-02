@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.deps.json
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Domain.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Infra.Data.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Services.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Domain.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Infra.Data.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Crud.Services.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\Crud\Crud.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Crud.Infra.CrossCutting.pdb

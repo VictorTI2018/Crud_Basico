@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+}
+
+table th, td {
+    text-align: center;
+}
+
+i.edit {
+    color: rgb(0, 132, 255);
+    cursor: pointer;
+}
+
+i.delete {
+    color: rgba(241, 33, 33, 0.904);
+    cursor: pointer;
+}
