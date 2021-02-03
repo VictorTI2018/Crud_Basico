@@ -14,6 +14,8 @@ import { MatButtonModule } from '@angular/material/button'
 import { MatTableModule } from '@angular/material/table'
 import { MatSnackBarModule } from '@angular/material/snack-bar'
 import { MatDialogModule } from '@angular/material/dialog'
+import { MatGridListModule } from '@angular/material/grid-list'
+import { MatSelectModule } from '@angular/material/select'
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -27,6 +29,9 @@ import { CategoriasCreateComponent } from './components/categorias/categorias-cr
 import { CategoriasListComponent } from './components/categorias/categorias-list/categorias-list.component';
 import { HttpIntercerptor } from './http/http-intercerptor';
 import { ConfirmCustomComponent } from './components/confirmCustom/confirm-custom/confirm-custom.component';
+import { LivrosComponent } from './views/livros/livros.component';
+import { LivrosCreateComponent } from './components/livros/livros-create/livros-create.component';
+import { LivrosListComponent } from './components/livros/livros-list/livros-list.component';
 
 
 
@@ -40,7 +45,10 @@ import { ConfirmCustomComponent } from './components/confirmCustom/confirm-custo
     CategoriasComponent,
     CategoriasCreateComponent,
     CategoriasListComponent,
-    ConfirmCustomComponent
+    ConfirmCustomComponent,
+    LivrosComponent,
+    LivrosCreateComponent,
+    LivrosListComponent
   ],
   imports: [
     BrowserModule,
@@ -57,7 +65,9 @@ import { ConfirmCustomComponent } from './components/confirmCustom/confirm-custo
     HttpClientModule,
     FormsModule,
     MatSnackBarModule,
-    MatDialogModule
+    MatDialogModule,
+    MatGridListModule,
+    MatSelectModule
   ],
   providers: [{
     provide: HTTP_INTERCEPTORS,

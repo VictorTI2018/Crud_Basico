@@ -1,0 +1,14 @@
+<button mat-raised-button color="primary" (click)="novoLivro()">Novo Livro</button>
+<br/>
+<br/>
+<br/>
+<mat-form-field appearance="fill">
+    <mat-label>Selecione um Categoria</mat-label>
+    <mat-select [(ngModel)]="idCategoria" name="idCategoria" (ngModelChange)="buscarLivrosPorCategoria($event)">
+        <mat-option *ngFor="let categoria of categorias" [value]="categoria.id">
+            {{categoria.nome}}
+        </mat-option>
+    </mat-select>
+</mat-form-field>
+<br />
+<app-livros-list [livros]="livros"></app-livros-list>

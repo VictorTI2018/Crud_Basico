@@ -4,7 +4,7 @@ import { Categorias } from 'src/app/models/categorias/categoria.model';
 import { MatSnackBar } from '@angular/material/snack-bar'
 import { Observable } from 'rxjs';
 
-interface MessageOptions {
+export interface MessageOptions {
     msg: string,
     duration: number,
     classColor: string

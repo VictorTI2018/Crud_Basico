@@ -12,6 +12,7 @@ namespace Crud.Infra.CrossCutting.IOC
         public static void AddRepositoryDependency(this IServiceCollection services)
         {
             services.AddScoped<IRepositoryCategorias, RepositoryCategorias>();
+            services.AddScoped<IRepositoryLivro, RepositoryLivro>();
         }
     }
 }

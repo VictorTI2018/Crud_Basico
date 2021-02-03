@@ -19,5 +19,15 @@ namespace Crud.Services.Services
         {
             return await _repositoryBase.Add(entity);
         }
+
+        public async Task Delete(int id)
+        {
+            await _repositoryBase.Delete(id);
+        }
+
+        public async Task<TEntity> Update(TEntity entity)
+        {
+            return await _repositoryBase.Update(entity);
+        }
     }
 }

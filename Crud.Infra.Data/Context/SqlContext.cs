@@ -12,5 +12,7 @@ namespace Crud.Infra.Data.Context
         { }
 
         public DbSet<Categorias> Categorias { get; set; }
+
+        public DbSet<Livro> Livro { get; set; }
     }
 }

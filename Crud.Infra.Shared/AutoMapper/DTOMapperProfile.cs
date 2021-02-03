@@ -10,6 +10,9 @@ namespace Crud.Infra.Shared.AutoMapper
         {
             CreateMap<CategoriaDadosDto, Categorias>();
             CreateMap<Categorias, CategoriaDadosDto>();
+
+            CreateMap<LivroDadosDto, Livro>();
+            CreateMap<Livro, LivroDadosDto>();
         }
     }
 }

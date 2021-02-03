@@ -1,0 +1,42 @@
+<mat-card>
+    <mat-card-title>Nova Categoria</mat-card-title>
+    <br />
+    <mat-card-content>
+        <form>
+            <mat-form-field appearance="legacy">
+                <mat-label>Nome</mat-label>
+                <input matInput placeholder="Nome do Livro..." [(ngModel)]="livros.nome" name="nome">
+            </mat-form-field>
+            <mat-form-field appearance="legacy">
+                <mat-label>Autor</mat-label>
+                <input matInput placeholder="Autor do Livro..." [(ngModel)]="livros.autor" name="autor">
+            </mat-form-field>
+            <mat-form-field appearance="legacy">
+                <mat-label>Editora</mat-label>
+                <input matInput placeholder="Nome da Editora..." [(ngModel)]="livros.editora" name="editora">
+            </mat-form-field>
+            <mat-form-field appearance="legacy">
+                <mat-label>Data da Publicação</mat-label>
+                <input matInput placeholder="Data da Publicação..." type="date" [(ngModel)]="livros.dataPublicacao" name="dataPublicacao">
+            </mat-form-field>
+            <mat-form-field appearance="legacy">
+                <mat-label>ISBN</mat-label>
+                <input matInput placeholder="ISBN do Livro..." [(ngModel)]="livros.isbn" name="isbn">
+            </mat-form-field>
+            <mat-form-field appearance="legacy">
+                <mat-label>Categorias</mat-label>
+                <mat-select [(ngModel)]="livros.idCategoria" name="idCategoria">
+                    <mat-option *ngFor="let categoria of categorias" [value]="categoria.id">
+                        {{categoria.nome}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+        </form>
+    </mat-card-content>
+    <mat-card-actions class="container-buttons">
+        <button mat-raised-button color="warn" (click)="voltar()">Voltar</button>
+        <button mat-raised-button color="primary" (click)="handleSubmit()">
+            {{ livros.id && livros.id > 0 ? 'Atualizar' : 'Cadastrar'}}
+        </button>
+    </mat-card-actions>
+</mat-card>
